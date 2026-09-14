@@ -43,3 +43,10 @@ Enthusiastic Bookworms
 -	Create: The user selects a book and writes their opinion, gives a rating, or recommends the book. The application will save it and other users can see it.
 -	Edit: N/A
 -	Homepage / dashboard: N/A
+
+## Wireframe V1 vs V2
+
+[Figma link](https://www.figma.com/design/zaUKQ55LNY6I9F6INbnPbb/Wireframe---Tylar?node-id=38-103&t=wHAqPz7gxxcFhD34-1)
+
+<img width="960" height="687" alt="Screenshot 2026-09-13 at 10 26 37 PM" src="https://github.com/user-attachments/assets/6ca1b2a3-dae2-4000-ae8c-6402f4716168" />
+
