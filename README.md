@@ -44,16 +44,18 @@ Enthusiastic Bookworms
 -	Edit: N/A
 -	Homepage / dashboard: N/A
 
-## A3 - Wireframe V1 vs V2
+## UI-UX Assignments
 
-### [View in Figma with this link!](https://www.figma.com/design/zaUKQ55LNY6I9F6INbnPbb/Wireframe---Tylar?node-id=38-103&t=wHAqPz7gxxcFhD34-1)
+### A3 - Wireframe V1 vs V2
+
+#### [View in Figma with this link!](https://www.figma.com/design/zaUKQ55LNY6I9F6INbnPbb/Wireframe---Tylar?node-id=38-103&t=wHAqPz7gxxcFhD34-1)
 
 <img width="960" height="687" alt="Screenshot 2026-09-13 at 10 26 37 PM" src="https://github.com/user-attachments/assets/6ca1b2a3-dae2-4000-ae8c-6402f4716168" />
 
-## A4 - Mini Brand Guide
+### A4 - Mini Brand Guide
 
-### [View in Figma with this link!](https://www.figma.com/design/7aYtzIAXsjicD676ukk6EK/Brand-Guide---Tylar?node-id=0-1&p=f&t=hxlvvfg8WvrOUKAZ-0)
+#### [View in Figma with this link!](https://www.figma.com/design/7aYtzIAXsjicD676ukk6EK/Brand-Guide---Tylar?node-id=0-1&p=f&t=hxlvvfg8WvrOUKAZ-0)
 
 <img width="1012" height="522" alt="Screenshot 2026-09-15 at 5 09 23 PM" src="https://github.com/user-attachments/assets/f459d06a-d1e8-4bd9-bfc4-10d47b32ea7b" />
 
-
+## Database Assignments
