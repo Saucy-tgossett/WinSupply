@@ -44,9 +44,16 @@ Enthusiastic Bookworms
 -	Edit: N/A
 -	Homepage / dashboard: N/A
 
-## Wireframe V1 vs V2
 
-[Figma link](https://www.figma.com/design/zaUKQ55LNY6I9F6INbnPbb/Wireframe---Tylar?node-id=38-103&t=wHAqPz7gxxcFhD34-1)
+
+### [Figma link](https://www.figma.com/design/zaUKQ55LNY6I9F6INbnPbb/Wireframe---Tylar?node-id=38-103&t=wHAqPz7gxxcFhD34-1)
+
+## A3 - Wireframe V1 vs V2
 
 <img width="960" height="687" alt="Screenshot 2026-09-13 at 10 26 37 PM" src="https://github.com/user-attachments/assets/6ca1b2a3-dae2-4000-ae8c-6402f4716168" />
+
+## A4 - Mini Brand Guide
+
+<img width="1012" height="522" alt="Screenshot 2026-09-15 at 5 09 23 PM" src="https://github.com/user-attachments/assets/f459d06a-d1e8-4bd9-bfc4-10d47b32ea7b" />
+
 
