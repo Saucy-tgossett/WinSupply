@@ -12,6 +12,7 @@
 
 ## Conceptual Model
 
+<img width="1560" height="594" alt="Concept map" src="https://github.com/user-attachments/assets/f334d61d-b599-4787-91a7-c3b4062fcc1c" />
 
 ## Description
 
