@@ -8,4 +8,9 @@
 
 **Relationship:** Shows how entities are connected.
 
-![1789699880970](image/README/1789699880970.png)
+## Conceptual Model
+![1789700315390](image/README/1789700315390.png)
+
+## Description
+
+A List entity represents a collection of books that a user has grouped together, suhc as a themed reading list. Its attributes are list name, description, and date created.
