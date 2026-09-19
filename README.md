@@ -1,5 +1,10 @@
 # WinSupply
 
+### Team Members 
+  - **Tylar Gossett**
+  - **Prince Nareshkumar**
+  - **Sami Mohammad**
+
 ## Table of Contents
 - [Business Requirements](#Business-Requirements)
     - [Vision](#Vision)
