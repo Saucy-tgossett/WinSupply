@@ -1,10 +1,26 @@
 # WinSupply
 
-## Vision
+## Table of Contents
+- [Business Requirements](#Business-Requirements)
+    - [Vision](#Vision)
+    - [Mission](#Mission)
+    - [Core User](#Core-User)
+    - [What](#What)
+    - [When](#When)
+    - [Where](#Where)
+    - [How](#How)
+- [UI-UX Design](#UI-UX-Design)
+    - [User Flow](#User-Flow)
+    - [Wireframe](#Wireframe)
+    - [Brand Guide](#Brand-Guide)
+
+## Business Requirements
+
+### Vision
 
 An App Where you can post book recommendation.
 
-## Mission
+### Mission
 
 Make a user friendly and simple app to share book recommendation.
 
@@ -43,3 +59,15 @@ Enthusiastic Bookworms
 -	Create: The user selects a book and writes their opinion, gives a rating, or recommends the book. The application will save it and other users can see it.
 -	Edit: N/A
 -	Homepage / dashboard: N/A
+
+## UI-UX Design
+
+### User Flow
+
+<img width="901" height="823" alt="Screenshot 2026-09-18 at 9 19 51 PM" src="https://github.com/user-attachments/assets/69635f74-7358-4bae-b371-26be09676704" />
+
+### Wireframe
+
+### Brand Guide
+
+<img width="1012" height="522" alt="Screenshot 2026-09-15 at 5 09 23 PM" src="https://github.com/user-attachments/assets/204319a6-74aa-4517-90d2-5cb25a8cebc1" />
