@@ -1,4 +1,4 @@
-# WinSupply
+# Bookish
 
 ### Team Members 
   - **Tylar Gossett**
@@ -38,15 +38,15 @@ Enthusiastic Bookworms
 -	Search: Users can search by genre.
 -	View All: Users can see all available reviews.
 -	Create: Users can create a review or recommendation for a book.
--	Edit: N/A
--	Homepage / dashboard: N/A
+-	Edit: user can add comment on existing reviews.
+-	Homepage / dashboard: User can see their own reviews.
   
 #### When
 
 -	Search: Users will search when they want to find a specific book by genre.
 -	View All: Users can view all recommendations when they want to look around and see different choices.
 -	Create: Users can create a review or recommendation after they read a book and want to share their opinion with other people.
--	Edit: N/A
+-	Edit: User can add comment when they want share their opinion about the book.
 -	Homepage / dashboard: Users will use the homepage when they first open the application. It will give them overview about user's account.
 
 #### Where
@@ -54,16 +54,16 @@ Enthusiastic Bookworms
 -	Search: The search will be available on the main page using a search bar.
 -	View All: Users can view reviews on their own pages.
 -	Create: Users can create a review or recommendation from the book's page.
--	Edit: N/A
--	Homepage / dashboard: N/A
+-	Edit: User can add comment from view all page.
+-	Homepage / dashboard: users can see their own reviews on dashboard.
   
 #### How
 
 -	Search: The user types the name of genre in the search bar and app will show the result.
 -	View All: The application will show a list of recommendations. Users can look through them and find something they like.
 -	Create: The user selects a book and writes their opinion, gives a rating, or recommends the book. The application will save it and other users can see it.
--	Edit: N/A
--	Homepage / dashboard: N/A
+-	Edit: Users can click on add comment and write their own thoughts on the existing review.
+-	Homepage / dashboard: Dashboard will show user's their own review.
 
 ## UI-UX Design
 
@@ -73,6 +73,12 @@ Enthusiastic Bookworms
 
 ### Wireframe
 
+<img width="1634" height="1334" alt="Screenshot 2026-09-18 215626" src="https://github.com/user-attachments/assets/05f319bd-033c-484e-b866-c98dbc3542bf" />
+
+----
+
+[If you want to see wireframes closely click here](https://www.figma.com/design/P1hNcUfFstaZrmB2GzhZzE/Group-Wireframes?node-id=0-1&p=f&t=Oym5l5LfVvg1MIN9-0)
+----
 ### Brand Guide
 
 <img width="1072" height="552" alt="Screenshot 2026-09-18 at 9 37 30 PM" src="https://github.com/user-attachments/assets/d4e3b236-74cb-4d12-ad57-29bb31d4ae41" />
