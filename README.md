@@ -69,11 +69,11 @@ Enthusiastic Bookworms
 
 ### User Flow
 
-<img width="901" height="823" alt="Screenshot 2026-09-18 at 9 19 51 PM" src="https://github.com/user-attachments/assets/69635f74-7358-4bae-b371-26be09676704" />
+<img width="901" height="823" alt="Screenshot 2026-09-18 at 9 19 51 PM" src="/images/userflow.png" />
 
 ### Wireframe
 
-<img width="1634" height="1334" alt="Screenshot 2026-09-18 215626" src="https://github.com/user-attachments/assets/05f319bd-033c-484e-b866-c98dbc3542bf" />
+<img width="1634" height="1334" alt="Screenshot 2026-09-18 215626" src="/images/wireframe.png" />
 
 ----
 
@@ -81,5 +81,5 @@ Enthusiastic Bookworms
 ----
 ### Brand Guide
 
-<img width="1072" height="552" alt="Screenshot 2026-09-18 at 9 37 30 PM" src="https://github.com/user-attachments/assets/d4e3b236-74cb-4d12-ad57-29bb31d4ae41" />
+<img width="1072" height="552" alt="Screenshot 2026-09-18 at 9 37 30 PM" src="/images/brandguide.png" />
 
