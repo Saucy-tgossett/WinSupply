@@ -75,4 +75,5 @@ Enthusiastic Bookworms
 
 ### Brand Guide
 
-<img width="1012" height="522" alt="Screenshot 2026-09-15 at 5 09 23 PM" src="https://github.com/user-attachments/assets/204319a6-74aa-4517-90d2-5cb25a8cebc1" />
+<img width="1072" height="552" alt="Screenshot 2026-09-18 at 9 37 30 PM" src="https://github.com/user-attachments/assets/d4e3b236-74cb-4d12-ad57-29bb31d4ae41" />
+
