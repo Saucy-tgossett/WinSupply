@@ -18,6 +18,7 @@
 
 ## Logical Model 
 
+<img width="941" height="529" alt="LogicalModel" src="https://github.com/user-attachments/assets/5e1aec05-d3c2-4abc-bb94-c5f9dcbf55b7" />
 
 ## Description
 
