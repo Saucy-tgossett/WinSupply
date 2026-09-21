@@ -21,5 +21,6 @@
 
 ## Logical Model
 
-![1790012440675](image/mohammad-lmh/1790012440675.png)
+![1790014286741](image/mohammad-lmh/1790014286741.png)
 
+In my logical model, I have three entities, books, reviews and comments. Book is an entity because it represents an object, with its own attributes, title, author, genre, pagecount, and its own primary key, BookID. Reviews representing a concept, with tis own attributes, ratings, description, recommendation, dateposted, and its own key ReviewID. A review depends on a book to exist, a single book can have many reviews but a review cannot attach to nothing. Comments being an entity aswell, following the same logic as the rest of the entities, having its own primary key, CommentID, and its own attributes, body, created_at, created_on. Which also depends on reviews the same way a review depends on the books.
