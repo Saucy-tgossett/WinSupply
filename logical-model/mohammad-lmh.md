@@ -11,3 +11,15 @@
 **Relationships between entities** - Relationships between two entities show how two entities are associated with each other, and how instances within an entity relate to another.
 
 **Normalization** - Normalization organizes data to reduce duplicated information, and helps keep a cleaner online environment.
+
+
+## Group Conceptual Model
+
+[Click here to view our conceptual model](https://github.com/Saucy-tgossett/WinSupply/blob/gossett-conceptualmodel/conceptual-model/lastname-cmh.md)
+
+
+
+## Logical Model
+
+![1790012440675](image/mohammad-lmh/1790012440675.png)
+
