@@ -23,7 +23,7 @@ The logical data model is an extension of the conceptual data of a specific busi
 
 ## Logical Model
 
-[https://github.com/Saucy-tgossett/WinSupply/blob/gossett-logicalmodel/logical-model/gossett-lmh.md](Group Logical Model)
+[Group Logical Model](https://github.com/Saucy-tgossett/WinSupply/blob/gossett-logicalmodel/logical-model/gossett-lmh.md])
 
 ## Physical Model
 
