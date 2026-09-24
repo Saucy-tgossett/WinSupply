@@ -24,7 +24,7 @@
 
 ## Physical Model 
 
-<img width="889" height="504" alt="Screenshot 2026-09-24 at 2 09 07 PM" src="https://github.com/user-attachments/assets/728c7b42-39a0-4c64-8d15-bb9dd519c2e2" />
+<img width="901" height="474" alt="Screenshot 2026-09-24 at 2 25 32 PM" src="https://github.com/user-attachments/assets/659de73d-ba6f-4138-851c-2de202d5e7fc" />
 
 ## Description
 
