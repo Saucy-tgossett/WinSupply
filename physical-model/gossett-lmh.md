@@ -16,7 +16,7 @@
 
 **Default Values / Null Values:** A default constraint is used to automatically insert a default value for a column, if no value is specified. A NULL value represents an unknown, missing, or inapplicable data in a database field. It is not a value itself, but a placeholder to indicate the absence of data. Fields marked NOT NULL have to contain a value.
 
-**Check Constraints:**
+**Check Constraints:** Check constraints enforce domain integrity by limiting the values that are accepted by one or more columns. I have one check constraint thats under is under the `Review` table that makes sure rating is grater than or equal to one but less then or equal to five.
 
 
 > [!IMPORTANT]
@@ -24,7 +24,7 @@
 
 ## Physical Model 
 
-<img width="777" height="383" alt="Screenshot 2026-09-23 at 10 20 04 PM" src="https://github.com/user-attachments/assets/0ccfd9c8-55b6-49a4-b981-f661f038a035" />
+<img width="889" height="504" alt="Screenshot 2026-09-24 at 2 09 07 PM" src="https://github.com/user-attachments/assets/728c7b42-39a0-4c64-8d15-bb9dd519c2e2" />
 
 ## Description
 
@@ -42,4 +42,5 @@ The `Comment table` stores comments made on reviews. `CommentID` is the primary 
   - [MariaDB Data Types](https://www.mariadbtutorial.com/mariadb-basics/mariadb-data-types/)
   - [SQL DEFAULT Constraint](https://www.w3schools.com/sql/sql_default.asp)
   - [SQL NULL Values](https://www.w3schools.com/sql/sql_null_values.asp)
+  - [Unique Constraints and Check Constraints](https://learn.microsoft.com/en-us/sql/relational-databases/tables/unique-constraints-and-check-constraints?view=sql-server-ver17#Check)
 
