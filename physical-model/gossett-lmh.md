@@ -24,11 +24,13 @@
 
 ## Physical Model 
 
-<img width="901" height="474" alt="Screenshot 2026-09-24 at 2 25 32 PM" src="https://github.com/user-attachments/assets/659de73d-ba6f-4138-851c-2de202d5e7fc" />
+<img width="1578" height="627" alt="Screenshot 2026-09-24 at 3 18 19 PM" src="https://github.com/user-attachments/assets/5691a38c-27c9-45a9-9a72-bf087bf74f39" />
 
 ## Description
 
-The physical model has three tables: `Book`, `Review`, and `Comment`.
+The physical model has four tables: `Genre`, `Book`, `Review`, and `Comment`.
+
+The `Genre` table is a lookup table that will store the coded genres. 
 
 The `Book` table stores information about each book, including its title, author, genre, and page count. `BookID` is the primary key and automatically increases when a new book is added. `Book` has a one to many relationship with the `Review` table.
 
