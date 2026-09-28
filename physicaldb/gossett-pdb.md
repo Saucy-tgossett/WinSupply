@@ -21,8 +21,10 @@ constraints.
 
 ## Description
 
+**Genre Table:** The `Genre table` is a lookup table that stores the different book genres. Each genre has its own `GenreID` as the primary key and a `GenreName` that must be unique.
 
+**Book Table:** The `Book table` stores the information for each book, including the `title` and `page count`. Each book has its own `BookID` as the primary key and uses `GenreID` as a foreign key to connect the book to the Genre table.
 
 ## Reference's
-  - []()
+  - [SQL Code Reference](https://github.com/pattonsgirl/CS4900-AppSoftwareDev/blob/main/U3-1_DevOps/DatabaseContainer/init_mr_fix_it.sql)
 
