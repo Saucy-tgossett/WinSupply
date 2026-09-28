@@ -1,0 +1,21 @@
+USE BookReview;
+
+CREATE TABLE Review (
+    ReviewID INT NOT NULL AUTO_INCREMENT,
+    BookID INT NOT NULL, 
+    Rating TINYINT NOT NULL,
+    ReviewText VARCHAR(3500) NOT NULL,
+    IsRecommended TINYINT(1)
+    DatePosted DATETIME CURRENT_TIMESTAMP NOT NULL,
+    PRIMARY KEY (ReviewID),
+    FOREIGN KEY (BookID) REFERENCES Book(BookID)
+);
+
+CREATE TABLE Comment (
+    CommentID INT NOT NULL AUTO_INCREMENT,
+    ReviewID INT NOT NULL,
+    CommentText  VARCHAR(2500) NOT NULL,
+    DatePosted DATETIME CURRENT_TIMESTAMP,
+    PRIMARY KEY (CommentID),
+    FOREIGN KEY (ReviewID) REFERENCES Review(ReviewID)
+);
