@@ -32,7 +32,7 @@
 
 ## Physical Model
 
-[https://github.com/Saucy-tgossett/WinSupply/blob/gossett-physicalmodel/physical-model/gossett-lmh.md](Group Physical Model)
+[Group Physical Model](https://github.com/Saucy-tgossett/WinSupply/blob/gossett-physicalmodel/physical-model/gossett-lmh.md)
 
 ## Description 
 
