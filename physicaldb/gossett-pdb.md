@@ -5,7 +5,7 @@
 **What Should be Included in a Create Table Statement:** A `CREATE TABLE` statement includes the table name and the columns that will be stored in the table. Each column should have a name and data type. The statement can also include things such as `primary keys`, `foreign keys`, whether a value can be `NULL`, default values, and other
 constraints.
 
-**Database Constraints and the Benefits of Them:** Database constraints are rules placed on data in a database to prevent invalid data from being entered.
+**Database Constraints and the Benefits of Them:** Database constraints are rules placed on data in a database to prevent invalid data from being entered. The constraints are the same as the statements above.
 
 
 **Ways to Insert Data:** Data can be added to a database using an `INSERT` statement. You can add one row at a time or add multiple rows in the same statement. Data can also be added through the application that's sending the data to the database.
