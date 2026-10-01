@@ -63,14 +63,15 @@
    ORDER BY DatePosted DESC;
 
 8. SELECT
-     Comment.CommentID,
-     Comment.ReviewID,
-     Comment.CommentText,
-     Comment.DatePosted
+   Comment.CommentID,
+   Comment.ReviewID,
+   Comment.CommentText,
+   Comment.DatePosted
    FROM Comment
    JOIN Review
-     ON Comment.ReviewID = Review.ReviewID
+   ON Comment.ReviewID = Review.ReviewID
    WHERE Review.BookID = 1;
+
 ```
 ---
 
