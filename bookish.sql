@@ -103,3 +103,104 @@ ALTER TABLE Comment
   FOREIGN KEY (ReviewID)
   REFERENCES Review (ReviewID)
 ;
+
+
+-- Inserted some books
+
+INSERT INTO Book (GenreID, Title, PageCount)
+VALUES (1, 'The Hobbit', 250);
+
+INSERT INTO Book (GenreID, Title, PageCount)
+VALUES (1, 'Harry Potter and the Sorcerer''s Stone', 390);
+
+INSERT INTO Book (GenreID, Title, PageCount)
+VALUES (2, 'Pride and Prejudice', 234);
+
+INSERT INTO Book (GenreID, Title, PageCount)
+VALUES (3, 'The Silent Patient', 534);
+
+INSERT INTO Book (GenreID, Title, PageCount)
+VALUES (4, 'The Da Vinci Code', 264);
+
+INSERT INTO Book (GenreID, Title, PageCount)
+VALUES (5, 'Dracula', 768);
+
+INSERT INTO Book (GenreID, Title, PageCount)
+VALUES (6, 'Dune', 350);
+
+INSERT INTO Book (GenreID, Title, PageCount)
+VALUES (9, 'The Hunger Games', 123);
+
+-- Inserted into reviews
+
+INSERT INTO Review
+(BookID, ReviewText, Rating, IsRecommended, DatePosted)
+VALUES
+(1, 'A very enjoyable fantasy book with a great adventure.', 5, TRUE, '2026-09-20 10:30:00');
+
+INSERT INTO Review
+(BookID, ReviewText, Rating, IsRecommended, DatePosted)
+VALUES
+(1, 'The story was good but some parts were slow.', 4, TRUE, '2026-09-21 14:15:00');
+
+INSERT INTO Review
+(BookID, ReviewText, Rating, IsRecommended, DatePosted)
+VALUES
+(2, 'A fun book with interesting characters.', 5, TRUE, '2026-09-22 09:45:00');
+
+INSERT INTO Review
+(BookID, ReviewText, Rating, IsRecommended, DatePosted)
+VALUES
+(3, 'I enjoyed the characters and the story.', 4, TRUE, '2026-09-23 16:20:00');
+
+INSERT INTO Review
+(BookID, ReviewText, Rating, IsRecommended, DatePosted)
+VALUES
+(4, 'The mystery was interesting but the ending was unexpected.', 3, FALSE, '2026-09-24 11:10:00');
+
+INSERT INTO Review
+(BookID, ReviewText, Rating, IsRecommended, DatePosted)
+VALUES
+(5, 'Very interesting mystery and historical information.', 5, TRUE, '2026-09-25 13:40:00');
+
+INSERT INTO Review
+(BookID, ReviewText, Rating, IsRecommended, DatePosted)
+VALUES
+(6, 'The book was a little slow but still interesting.', 3, FALSE, '2026-09-26 18:00:00');
+
+INSERT INTO Review
+(BookID, ReviewText, Rating, IsRecommended, DatePosted)
+VALUES
+(7, 'One of my favorite science fiction books.', 5, TRUE, '2026-09-27 09:25:00');
+
+
+-- Inserted some comments
+INSERT INTO Comment
+(ReviewID, CommentText, DatePosted)
+VALUES
+(1, 'I agree, the adventure was really good.', '2026-09-21 10:00:00');
+
+INSERT INTO Comment
+(ReviewID, CommentText, DatePosted)
+VALUES
+(1, 'This is one of my favorite fantasy books too.', '2026-09-22 12:30:00');
+
+INSERT INTO Comment
+(ReviewID, CommentText, DatePosted)
+VALUES
+(2, 'I also thought some parts were slow.', '2026-09-22 15:20:00');
+
+INSERT INTO Comment
+(ReviewID, CommentText, DatePosted)
+VALUES
+(3, 'The characters were my favorite part.', '2026-09-23 11:15:00');
+
+INSERT INTO Comment
+(ReviewID, CommentText, DatePosted)
+VALUES
+(5, 'The ending surprised me too.', '2026-09-25 14:30:00');
+
+INSERT INTO Comment
+(ReviewID, CommentText, DatePosted)
+VALUES
+(8, 'I really like science fiction books.', '2026-09-28 10:45:00');
