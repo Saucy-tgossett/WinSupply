@@ -39,8 +39,3 @@ FROM Book
 JOIN Review ON Book.BookID = Review.BookID
 WHERE Review.IsRecommended = 1;
 ```
-
-
-## Reference's
-  - [SQL Code Reference](https://github.com/pattonsgirl/CS4900-AppSoftwareDev/blob/main/U3-1_DevOps/DatabaseContainer/init_mr_fix_it.sql)
-
