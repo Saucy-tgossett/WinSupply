@@ -21,3 +21,4 @@
 
 ## SQL Queries
 
+[SQL Queries and Description](https://github.com/Saucy-tgossett/WinSupply/blob/mohammad-sql-queries/DatabaseDesign/Bookish.sql)
