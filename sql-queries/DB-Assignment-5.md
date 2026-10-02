@@ -51,8 +51,12 @@
    WHERE Rating >= 4
    ORDER BY Rating DESC;
 
-5. SELECT *
-   FROM Review;
+5. SELECT Review.ReviewText, Book.Title, Genre.GenreName, Review.Rating, Review.IsRecommended 
+   FROM Review
+   JOIN Book
+   ON Review.BookID = Book.BookID
+   JOIN Genre
+   ON Book.GenreID = Genre.GenreID;
 
 6. SELECT ReviewID, BookID, ReviewText, Rating, IsRecommended, DatePosted
    FROM Review
@@ -90,7 +94,7 @@
 - This query displays reviews with a rating of 4 or higher. The reviews are sorted from the highest rating to the lowest rating.
 
 ***Query 5***
-- This query displays all reviews from the Review table.
+- This query displays all reviews from the Review table with book name, its genre, rating and recommendation.
 
 ***Query 6***
 - This query displays all reviews sorted by DatePosted from the oldest review to the newest review.
