@@ -15,7 +15,7 @@ The main entities in the conceptual model are **Genre, Book, Review, and Comment
 - A **Review** belongs to one Book.
 - A **Comment** belongs to one Review.
 
-<img alt="conceptual model" src="../images/conceptual.png" />
+![Conceptual Model](/images/conceptual.png)
 
 ---
 
@@ -38,7 +38,7 @@ The relationships are:
 - Book → Review: one-to-many
 - Review → Comment: one-to-many
 
-<img alt="logical model" src="../images/logical.png" />
+![Logical Model](/images/logical.png)
 
 ---
 
@@ -52,7 +52,7 @@ Physical includes database-specific data types, primary keys, foreign keys, requ
 
 ### Physical Model Source Code
 
-```dbml
+```
 // Physical Model - Bookish
 
 Table Genre {
@@ -87,5 +87,4 @@ Ref: Genre.GenreID < Book.GenreID
 Ref: Book.BookID < Review.BookID
 Ref: Review.ReviewID < Comment.ReviewID
 ```
-
-<img alt="logical model" src="../images/physical.png" />
+![Physical Model](/images/physical.png)
