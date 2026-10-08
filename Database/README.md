@@ -39,8 +39,8 @@ The Initialization folder contains the files needed to create and run the databa
 The Models folder contains the three database models used to design our database.
 
   - [Conceptual Model](Models/images/conceptual.png): Shows the main entities and how they relate to each other.
-  - [Logical Model](Models/images/logical.png)): Shows the entities, attributes, primary keys, foreign keys, and relationships.
-  - [Physical Model](Models/images/physical.png)): Shows the database tables, data types, and constraints used in MariaDB.
+  - [Logical Model](Models/images/logical.png): Shows the entities, attributes, primary keys, foreign keys, and relationships.
+  - [Physical Model](Models/images/physical.png): Shows the database tables, data types, and constraints used in MariaDB.
 
 > [!IMPORTANT]
 > The [model.md](Models/model.md) file includes descriptions and images of each model.
