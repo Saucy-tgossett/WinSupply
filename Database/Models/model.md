@@ -15,7 +15,7 @@ The main entities in the conceptual model are **Genre, Book, Review, and Comment
 - A **Review** belongs to one Book.
 - A **Comment** belongs to one Review.
 
-<img alt="conceptual model" src="../images/conceptual.png" />
+![Conceptual Model](/images/conceptual.png)
 
 ---
 
