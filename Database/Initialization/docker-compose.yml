@@ -19,7 +19,7 @@ services:
     ports:
       # MariaDB runs on port 3306 internal to the container.  Pick a unique host port - you'll refer to this in DBeaver
       # Mr Fix It (if running) would be bound to port 3306 on your system (and in DBeaver)
-      - 999:3306
+      - 3306:3306
       # Note the second value must stay 3306.  The first just needs to be available (not taken by another container)
       # 3320:3306
 
